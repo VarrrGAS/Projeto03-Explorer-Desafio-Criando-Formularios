@@ -7,7 +7,7 @@
 
 ### Menthorship.
 
-# Objetive: 
+# Objective: 
 
 ### The project objective is to show how to create:
 
